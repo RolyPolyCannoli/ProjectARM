@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\proje\\CU\\ProjectARM\\ProjectARM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\proje\\CU\\ProjectARM\\ProjectARM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\proje\\CU\\ProjectARM\\ProjectARM.csproj",
+        "projectName": "ProjectARM",
+        "projectPath": "C:\\Users\\proje\\CU\\ProjectARM\\ProjectARM.csproj",
+        "packagesPath": "C:\\Users\\proje\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\proje\\CU\\ProjectARM\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\proje\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

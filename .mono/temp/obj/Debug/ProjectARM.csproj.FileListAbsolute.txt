@@ -1,0 +1,8 @@
+C:\Users\proje\CU\ProjectARM\.mono\temp\bin\Debug\ProjectARM.dll
+C:\Users\proje\CU\ProjectARM\.mono\temp\bin\Debug\ProjectARM.pdb
+C:\Users\proje\CU\ProjectARM\.mono\temp\obj\Debug\ProjectARM.csprojAssemblyReference.cache
+C:\Users\proje\CU\ProjectARM\.mono\temp\obj\Debug\ProjectARM.AssemblyInfoInputs.cache
+C:\Users\proje\CU\ProjectARM\.mono\temp\obj\Debug\ProjectARM.AssemblyInfo.cs
+C:\Users\proje\CU\ProjectARM\.mono\temp\obj\Debug\ProjectARM.csproj.CoreCompileInputs.cache
+C:\Users\proje\CU\ProjectARM\.mono\temp\obj\Debug\ProjectARM.dll
+C:\Users\proje\CU\ProjectARM\.mono\temp\obj\Debug\ProjectARM.pdb
